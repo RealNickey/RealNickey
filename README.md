@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aswin Jim Thuruthippilly</h1>
 <h3 align="center">Hi,Im Aswin Jim I am doing my bachelors in technology at VJCET</h3>
 
-[![An image of @realnickey's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/realnickey)](https://holopin.io/@realnickey)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realnickey&label=Profile%20views&color=0e75b6&style=flat" alt="realnickey" /> </p>
 
@@ -30,4 +29,5 @@
 <p align="right"> <a href="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" /></a> </p>
 
 
+[![An image of @realnickey's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/realnickey)](https://holopin.io/@realnickey)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=realnickey&show_icons=true&locale=en&layout=compact" alt="realnickey" /></p>
