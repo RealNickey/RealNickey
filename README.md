@@ -8,11 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/thuruthippilly" target="blank"><img src="https://img.shields.io/twitter/follow/@thuruthippilly?logo=twitter&style=for-the-badge" alt="@thuruthippilly" /></a> </p>
 
-- 🔭 I’m currently working on [C2txt-Shell](https://github.com/RealNickey/C2txt-Shell)
 
 - 🌱 I’m currently learning **Java,Python,CSS,JavaScript**
 
-- 🤝 I’m looking for help with [C2txt-Shell](https://github.com/RealNickey/C2txt-Shell)
 
 - 📫 How to reach me **aswin22rg063@vjcet.org**
 
