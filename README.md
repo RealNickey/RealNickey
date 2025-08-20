@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aswin Jim Thuruthippilly</h1>
-<h3 align="center">Hi,Im Aswin Jim I am doing my bachelors in technology at VJCET</h3>
+<h3 align="center">I am doing my bachelors in technology at VJCET</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realnickey&label=Profile%20views&color=0e75b6&style=flat" alt="realnickey" /> </p>
