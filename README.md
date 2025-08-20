@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Java,Python,CSS,JavaScript**
 
 
-- 📫 How to reach me **aswin22rg063@vjcet.org**
+- 📫 How to reach me **aswinjimson@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
